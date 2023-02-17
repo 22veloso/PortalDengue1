@@ -1,0 +1,142 @@
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.csproj.SuggestedBindingRedirects.cache
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Properties.Resources.resources
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_Denunciations.resources
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_HomePage.resources
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_Login.resources
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_Registration.resources
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_ValidateDenunciantions.resources
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\appsettings.json
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\PortalDengue1.exe.config
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\PortalDengue1.exe
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\PortalDengue1.pdb
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Dapper.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.Buffers.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.Memory.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.Text.Json.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.ValueTuple.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Dapper.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.Buffers.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.Memory.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.Text.Json.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\System.ValueTuple.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.csproj.CopyComplete
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.exe
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.pdb
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\EPPlus.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\EPPlus.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_ExcelArchive.resources
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_ExcelArchive.aa-DJ.resources
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\bin\Debug\aa-DJ\PortalDengue1.resources.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\aa-DJ\PortalDengue1.resources.dll
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_ValidDenunciations.resources
+C:\Users\felip\source\repos\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_AboutApp.resources
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\appsettings.json
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\PortalDengue1.exe.config
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\PortalDengue1.exe
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\PortalDengue1.pdb
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\aa-DJ\PortalDengue1.resources.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Dapper.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\EPPlus.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.Buffers.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.Memory.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.Text.Json.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.ValueTuple.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Dapper.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\EPPlus.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.Buffers.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.Memory.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.Text.Json.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\bin\Debug\System.ValueTuple.xml
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.csproj.AssemblyReference.cache
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Properties.Resources.resources
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_Denunciations.resources
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_ExcelArchive.resources
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_AboutApp.resources
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_HomePage.resources
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_Login.resources
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_Registration.resources
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_ValidateDenunciantions.resources
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_ValidDenunciations.resources
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.Views.V1.Frm_ExcelArchive.aa-DJ.resources
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.csproj.GenerateResource.cache
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\aa-DJ\PortalDengue1.resources.dll
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.csproj.CopyComplete
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.exe
+C:\Users\Lucas Veloso\OneDrive\Área de Trabalho\PortalDengue1\PortalDengue1\obj\Debug\PortalDengue1.pdb
